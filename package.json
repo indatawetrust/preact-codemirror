@@ -26,5 +26,8 @@
   },
   "peerDependencies": {
     "preact": "^7.2.0"
+  },
+  "dependencies": {
+    "preact-append-child": "^1.0.3"
   }
 }
